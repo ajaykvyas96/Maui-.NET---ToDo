@@ -13,7 +13,7 @@ Visual Studio 2022 or Visual Studio Code with appropriate extensions
 SQLite database engine
 
 # Getting Started
-Clone the repository: git clone https://github.com/ajaykvyas96/ToDo.git
+Clone the repository: git clone https://github.com/ajaykvyas96/Maui-.NET---ToDo.git
 There are two sulutions. 
 1. ToDoWebApi - Web api
 2. ToDoMauiClient - Maui Client
